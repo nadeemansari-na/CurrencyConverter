@@ -1,3 +1,3 @@
 # CurrencyConverter
-This is a simple width full of logic currency converter .
+This is a simple and interactive with having full of logic project.which boosted interest.
 ## 🚀Live Demo
